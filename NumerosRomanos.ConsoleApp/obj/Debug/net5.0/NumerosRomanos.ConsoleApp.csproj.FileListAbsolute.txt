@@ -1,0 +1,16 @@
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.exe
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.deps.json
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.runtimeconfig.json
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.runtimeconfig.dev.json
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.dll
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\ref\NumerosRomanos.ConsoleApp.dll
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net5.0\NumerosRomanos.ConsoleApp.pdb
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.AssemblyInfo.cs
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.dll
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\ref\NumerosRomanos.ConsoleApp.dll
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.pdb
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.genruntimeconfig.cache
+C:\Users\theem\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net5.0\NumerosRomanos.ConsoleApp.csprojAssemblyReference.cache
