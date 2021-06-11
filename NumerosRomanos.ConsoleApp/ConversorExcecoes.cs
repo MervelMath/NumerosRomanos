@@ -1,8 +1,8 @@
 ﻿namespace NumerosRomanos.ConsoleApp
 {
-    public class ConversorExcecoes : ConversorBase
+    public class ConversorExcecoes
     {
-
+        protected string[] letrasMilharMaiorOuIgualA4Mil = { "", "", "", "", "ĪV̄", "V̄", "V̄Ī", "V̄ĪĪ", "V̄ĪĪĪ", "ĪX̄", "X̄" };
 
         public string ConfigurarRomanoMaiorQue4Mil(string roman)
         {
@@ -16,7 +16,10 @@
             return roman;
         }
 
-        public string ConverterUnidadeMilharMaiorIgualQue4Mil(int arabic)
+
+
+
+        public string ConvercaoArabicoMilharMaiorIgualQue4Mil(int arabic)
         {
             string result = "";
 
@@ -24,5 +27,7 @@
 
             return result;
         }
+
+
     }
 }
